@@ -1,0 +1,3 @@
+First, open the target URL and extract character data from the HTML table using requests and BeautifulSoup.
+Then, iterating the table elements save characters to corresponding coordinates. (Of course, we should calculate the number of rows and columns)
+Finally, we can print the saved grid in reverse row order to display the secret message.

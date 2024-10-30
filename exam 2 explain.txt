@@ -1,0 +1,3 @@
+Model A generates Time limit exceed, because we can't break from the while loop.
+But, Model B generates correct code, and if I run the code I can see the result is correct.
+So I am sure that model B is better than model A.
